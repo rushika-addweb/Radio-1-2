@@ -1,1 +1,1 @@
-In this  assignment 1/2 i have made online radio  and play top 20 songs and shows the radio station ofthe different citywise with show time rj and with timimiug i done this with the help of laraval framework using routes,migration,models ,authication,javascripts.
+In this  assignment 1/2 i have made online radio  and play top 20 songs and shows the radio station ofthe different citywise with show time rj and with timing i done this with the help of laraval framework using routes,migration,models ,authication,javascripts.
